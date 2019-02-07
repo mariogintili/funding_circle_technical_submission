@@ -1,3 +1,3 @@
-# Technical submission for Funding Circle :yen: :euro: :moneybag: :credit_card:
+# Funding Circle technical test :yen: :euro: :moneybag: :credit_card:
 
 WIP
