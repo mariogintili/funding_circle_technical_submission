@@ -3,7 +3,6 @@ class PrimeNumbers
     array   = []
     counter = 2
 
-
     while array.length != size
       if prime?(counter)
         array.push(counter)

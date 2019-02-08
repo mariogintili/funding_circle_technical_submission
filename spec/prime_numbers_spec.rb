@@ -1,4 +1,4 @@
-RSpec.describe PrimeNumbers, type: :enumerator do
+RSpec.describe PrimeNumbers do
   subject { described_class.new }
 
   describe "#take" do
